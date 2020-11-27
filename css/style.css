@@ -1,0 +1,10 @@
+body{
+	background: url("../imgs/restaurant2.jpg") no-repeat;
+	background-size: cover;
+	background-color:black;
+
+}
+
+.black{
+	opacity:0.9;
+}
